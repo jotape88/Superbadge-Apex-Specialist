@@ -1,0 +1,418 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef1"
+            },
+            "CaseNumber": "00001026",
+            "CreatedDate": "2022-03-26T03:58:26.000+0000",
+            "Type": "Routine Maintenance",
+            "Status": "New",
+            "IsClosed": false,
+            "Origin": "Web"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef2"
+            },
+            "CaseNumber": "00001027",
+            "CreatedDate": "2022-03-26T03:58:26.000+0000",
+            "Type": "Routine Maintenance",
+            "Status": "New",
+            "IsClosed": false,
+            "Origin": "Phone"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef3"
+            },
+            "CaseNumber": "00001000",
+            "Product__c": "GC5040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Complexity",
+            "Origin": "Phone",
+            "Subject": "Starting generator after electrical failure"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef4"
+            },
+            "CaseNumber": "00001001",
+            "Product__c": "GC1060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Performance",
+            "Origin": "Phone",
+            "Subject": "Performance inadequate for second consecutive week"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef5"
+            },
+            "CaseNumber": "00001002",
+            "Product__c": "GC3060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Repair",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Installation",
+            "Origin": "Web",
+            "Subject": "Seeking guidance on electrical wiring installation for GC5060"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef6"
+            },
+            "CaseNumber": "00001003",
+            "Product__c": "GC1020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Installation",
+            "Origin": "Web",
+            "Subject": "Easy installation process"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef7"
+            },
+            "CaseNumber": "00001004",
+            "Product__c": "GC5020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Other",
+            "Origin": "Phone",
+            "Subject": "Maintenance guidelines for generator unclear"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef8"
+            },
+            "CaseNumber": "00001005",
+            "Product__c": "GC1060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Performance",
+            "Origin": "Phone",
+            "Subject": "Electrical circuit malfunctioning"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef9"
+            },
+            "CaseNumber": "00001006",
+            "Product__c": "GC1020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Feedback",
+            "Origin": "Phone",
+            "Subject": "Generator assembly instructions unclear"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef10"
+            },
+            "CaseNumber": "00001007",
+            "Product__c": "GC1040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Structural",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Breakdown",
+            "Origin": "Phone",
+            "Subject": "Structural breakdown of rotor assembly"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef11"
+            },
+            "CaseNumber": "00001008",
+            "Product__c": "GC1020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Feedback",
+            "Origin": "Web",
+            "Subject": "Customer service for portable generators needs beefing up"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef12"
+            },
+            "CaseNumber": "00001009",
+            "Product__c": "GC3040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Mechanical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Other",
+            "Origin": "Phone",
+            "Subject": "Mechanical maintenance guidelines for generator misleading"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef13"
+            },
+            "CaseNumber": "00001010",
+            "Product__c": "GC1060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Feedback",
+            "Origin": "Web",
+            "Subject": "Maintenance guidelines for generator unclear"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef14"
+            },
+            "CaseNumber": "00001011",
+            "Product__c": "GC3020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electronic",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Design",
+            "Origin": "Web",
+            "Subject": "Electronic panel fitting loose"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef15"
+            },
+            "CaseNumber": "00001012",
+            "Product__c": "GC1020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Breakdown",
+            "Origin": "Web",
+            "Subject": "Repeated motor breakdown while shutting off"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef16"
+            },
+            "CaseNumber": "00001013",
+            "Product__c": "GC5020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Design",
+            "Origin": "Web",
+            "Subject": "Starting up generator consumes excessive power"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef17"
+            },
+            "CaseNumber": "00001014",
+            "Product__c": "GC3020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Installation",
+            "Origin": "Phone",
+            "Subject": "Delay in installation; spare parts unavailable"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef18"
+            },
+            "CaseNumber": "00001015",
+            "Product__c": "GC3060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Mechanical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Breakdown",
+            "Origin": "Web",
+            "Subject": "Frequent mechanical breakdown"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef19"
+            },
+            "CaseNumber": "00001016",
+            "Product__c": "GC5020",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Other",
+            "Status": "New",
+            "IsClosed": false,
+            "Reason": "Feedback",
+            "Origin": "Web",
+            "Subject": "Maintenance guidelines for generator unclear"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef20"
+            },
+            "CaseNumber": "00001017",
+            "Product__c": "GC1040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Mechanical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Complexity",
+            "Origin": "Web",
+            "Subject": "Shutting down of generator"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef21"
+            },
+            "CaseNumber": "00001018",
+            "Product__c": "GC1040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Complexity",
+            "Origin": "Phone",
+            "Subject": "Cannot start generator after electrical failure"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef22"
+            },
+            "CaseNumber": "00001019",
+            "Product__c": "GC5060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Structural",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Design",
+            "Origin": "Web",
+            "Subject": "Structural failure of generator base"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef23"
+            },
+            "CaseNumber": "00001020",
+            "Product__c": "GC3060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Performance",
+            "Origin": "Phone",
+            "Subject": "Power generation below stated level"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef24"
+            },
+            "CaseNumber": "00001021",
+            "Product__c": "GC3060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Structural",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Installation",
+            "Origin": "Phone",
+            "Subject": "Generator GC3060 platform structure is weakening"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef25"
+            },
+            "CaseNumber": "00001022",
+            "Product__c": "GC5060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electronic",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Performance",
+            "Origin": "Web",
+            "Subject": "Signal panel on GC5060 blinks intermittently"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef26"
+            },
+            "CaseNumber": "00001023",
+            "Product__c": "GC5060",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Other",
+            "Origin": "Phone",
+            "Subject": "Electric surge damaging adjacent equipment"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef27"
+            },
+            "CaseNumber": "00001024",
+            "Product__c": "GC3040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Mechanical",
+            "Status": "New",
+            "IsClosed": false,
+            "Reason": "Equipment Design",
+            "Origin": "Web",
+            "Subject": "Design issue with mechanical rotor"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef28"
+            },
+            "CaseNumber": "00001025",
+            "Product__c": "GC5040",
+            "CreatedDate": "2022-03-26T00:56:52.000+0000",
+            "Type": "Electrical",
+            "Status": "Closed",
+            "IsClosed": true,
+            "Reason": "Equipment Design",
+            "Origin": "Phone",
+            "Subject": "Motor design hindering performance"
+        }
+    ]
+}
